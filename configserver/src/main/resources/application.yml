@@ -10,8 +10,7 @@ spring:
       server:
         git:
           uri: https://github.com/hwajin15/Configuration.git
-          username: hwajin15
-          password: ckdals0218!
+      
           clone-on-start: true
 
 #
